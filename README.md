@@ -1,13 +1,101 @@
-<h1 align="center">Hi 👋, I'm Garvit Bhartia</h1>
-<h3 align="center">passionate about stuffs related to technology</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Garvitb2005" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile;+I'm+Garvit Bhartia!" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=garvitb2005&label=Profile%20views&color=0e75b6&style=flat" alt="garvitb2005" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/garvit bhartia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garvit bhartia" height="30" width="40" /></a>
+<h3 align="center">
+    <font color="blue">Enthusiastic Computer Science Student | Code Lover | Football Enthusiast</font>
+</h3>
+
+<div align="center">
+    <p><font color="blue">🧑🏻‍🎓 Student Ambassador at Lets Upgrade</font></p>
+    <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
+    <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p>
+</div>
+
+
+
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+   <h2>Get in Touch</h2>
+  <p>
+    </a>
+    <a href="mailto:garvitbhartia3003@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/garvit-bhartia-25977b283/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
+    </a>
+    <a href="https://twitter.com/garvitbhartia">
+      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+    <div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<div align="left">
+  <h2>Skills & Languages:</h2>
+
+<h4>IDEs:</h4>
+<p>
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </p>
+</div>
+</p>
+<div align="left">
+  <h4>Languages:</h4>
+      <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
+  
+<h4>Version Control:</h4>
+<p>
+    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+</p>
+<h4>No Code:</h4>
+<p>
+ <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"> 
+<img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
+</p>
+    <div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<div align="left">
+  <h2>My Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jeevan-04/Jeevan-04/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<div align="left">
+  <h2>Recent Activity:</h2>
+  <img src="https://github-readme-stats.vercel.app/api/?username=Garvitb2005&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,issues" />
+</div>
+
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<div align="center">
+  <h2>GitHub Stats:</h2>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garvitb2005&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Garvitb2005&theme=solarized" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Garvitb2005&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Garvitb2005&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Garvitb2005&theme=solarized&utcOffset=5.3" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
